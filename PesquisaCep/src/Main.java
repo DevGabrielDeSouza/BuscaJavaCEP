@@ -88,6 +88,7 @@ public class Main {
 		input.close();
 		//fecha o arquivo
 		f.close();
+		System.out.println("Aplicação Encerrada!");
 	}
 
 }
